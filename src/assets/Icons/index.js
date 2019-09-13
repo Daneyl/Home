@@ -1,0 +1,12 @@
+import SofaIcon from './SofaIcon';
+import BackIcon from './BackIcon';
+import TVIcon from './TVIcon';
+import BathTubIcon from './BathTubIcon';
+import DiningIcon from './DiningIcon';
+import BedIcon from './BedIcon';
+export {SofaIcon};
+export {BackIcon};
+export {TVIcon};
+export {BathTubIcon};
+export {DiningIcon};
+export {BedIcon};
